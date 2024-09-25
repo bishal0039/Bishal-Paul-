@@ -1,0 +1,15 @@
+//Write appropriate function prototype for the sketelal outlines show below
+// Date-25/9/2024 
+#include<stdio.h> 
+double funct1(double a, double b);// function prototype // 
+main (){
+double a,b,c;
+.......
+c=funct1(a,b);
+}
+double funct1(double x,double y)
+{ 
+double z;
+z=......;
+return(z);
+}
