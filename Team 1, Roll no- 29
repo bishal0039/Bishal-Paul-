@@ -6,6 +6,7 @@ main (){
 double a,b,c;
 .......
 c=funct1(a,b);
+......
 }
 double funct1(double x,double y)
 { 
