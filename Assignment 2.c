@@ -1,3 +1,5 @@
+// program name- Find the Largest of Three Numbers Using a Function
+//program date -26/09/24
 #include <stdio.h>
 int Largestno(int a, int b, int c) {
     if (a >= b && a >= c)
