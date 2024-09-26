@@ -14,12 +14,7 @@ int main() {
     int n1, n2, n3, lg;
     printf("Enter three numbers: ");
     scanf("%d %d %d", &n1, &n2, &n3);
-
-    
     lg = Largestno(n1, n2, n3);
-
-    
-    printf("The largest number is: %d\n", lg);
-
+    printf("The largest number is: %d\n", lg); 
     return 0;
 }
