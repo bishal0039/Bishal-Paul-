@@ -1,0 +1,89 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[a4paper,margin=0.75in]{geometry}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\definecolor{headercolor}{RGB}{45, 62, 80}
+\definecolor{accentcolor}{RGB}{41, 128, 185}
+
+\title{\vspace{-3cm}}
+\date{}
+
+\begin{document}
+\begin{center}
+    \textbf{\huge Resume}
+\end{center}
+
+\begin{minipage}{0.7\textwidth}
+    \raggedright
+    \textbf{\LARGE Bishal Paul} \\
+    \textcolor{accentcolor}
+    CONTECT ME\\
+    \small
+    Email: \href{mailto:bishalpaul039@gmail.com}{bishalpaul039@gmail.com} \\
+    Phone: +91 9707236207\\
+    ADDRESS: MAKUM, TINSUKIA, ASSAM  
+    
+\end{minipage}
+\hspace{0.05\textwidth} 
+\begin{minipage}{0.2\textwidth}
+    \raggedleft
+    \includegraphics[width=3cm, angle=0]{Images/bishal.jpg} 
+\end{minipage}
+
+\vspace{0.5cm}
+
+\section*{Aboute me }
+A driven BCA graduate with an
+excellent foundation in web
+development, programming,
+and computer applications is
+looking for a demanding
+entry-level job in the IT
+industry. I'm excited to use
+my expertise in database
+administration, software
+development, and problem-
+solving to support cutting-
+edge technological
+innovations. Extremely driven
+to adopt new technologies and
+advance professionally in a
+fast-paced IT team, and keen
+to apply my academic
+knowledge in a real-world
+context."
+
+
+\section*{Education}
+\begin{tabular}{>{\bfseries}p{0.25\textwidth} p{0.7\textwidth}}
+2018 & HSLC, ST. STEPHEN'S HIGH SCHOOL, Tinsukia , Assam, India \\
+2020 & AHSEC, Tinsukia English Academy, Tinsukia, Assam, India \\
+2023 &  under Graduation(B.c.A.),DHSK college , Dibrugarh, Assam, India \\
+
+\end{tabular}
+
+\section*{Skills}
+\subsubsection*{Computer Skill}
+\begin{itemize}
+    \item \textbf{Programming Languages}: Python, C, C++, Java, HTML, CSS
+    
+\end{itemize}
+\subsubsection*{soft skill}
+\begin{itemize}
+    \item \ communication,Team work, Time Management,Adaptability.
+    
+\end{itemize}
+
+
+
+
+\section*{Additional Information}
+\begin{itemize}
+    \item Languages: English,Bengali Assamese, Hindi
+    \item Interests: Photography, Reading, Gaming, Web Development
+\end{itemize}
+
+\end{document}

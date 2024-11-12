@@ -1,0 +1,97 @@
+\documentclass[a4paper,12pt]{article}
+
+% Page layout packages
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+
+
+\begin{document}
+\text{Total number of printed pages: 2}
+  
+
+ 
+% Title and paper information
+\begin{center}
+    \textbf{1 SEM MCA(N (CBCS SWUL 109)}\\
+     \textbf{2022}\\
+     (DECEMBER)\\
+    \textbf{COMPUTER APPLICATION} \\
+    \textbf{Paper : MCA-109 (Scientific Writing Using LaTeX)} \\
+    \vspace{0.2cm}
+    \textbf{Full Marks : 60\\ Pass Marks : 27\\
+     Time : Three hours}\\
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent The figures in the margin indicate full marks for the questions.
+
+\vspace{0.5cm}
+
+\section*{Answer the following \hfill 1x5=5}
+
+\begin{enumerate}
+    \item[(a)] State one advantage of LaTeX over a word processor.
+    
+    \item[(b)] How is the \% symbol produced in LaTeX? Write the command.
+    
+    \item[(c)] Give an example of a LaTeX editor.
+    
+    \item[(d)] Write a LaTeX command to display the quadratic formula:
+    \[
+    x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+    \]
+    
+    \item[(e)] How can you create a bulleted list in LaTeX?
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\section*{Answer the following questions \hfill 2x5=10}
+
+\begin{enumerate}
+    \item[(a)] What is a LaTeX package? Give two examples of commonly used LaTeX packages.
+    
+    \item[(b)] Explain the difference between \texttt{\textbackslash textbf} and \texttt{\textbackslash emph} commands in LaTeX.
+    
+    \item[(c)] Write the LaTeX command to create a section with the title "Introduction."
+    
+    \item[(d)] How do you add comments in LaTeX code? Provide an example.
+    
+    \item[(e)] Explain the use of the \texttt{align} environment in LaTeX with an example.
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\section*{Answer any three of the following \hfill 5x3=15}
+
+\begin{enumerate}
+    \item[(a)] Describe the structure of a LaTeX document, including the preamble and main document content.
+    
+    \item[(b)] How do you create tables in LaTeX? Write commands to create a simple table with two columns and two rows.
+    
+    \item[(c)] Discuss the process of inserting figures in LaTeX using the \texttt{graphicx} package.
+    
+    \item[(d)] Write the commands for creating a numbered list in LaTeX. Provide an example.
+    
+    \item[(e)] Explain how mathematical symbols are displayed in LaTeX. Provide examples of two symbols.
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\section*{Answer any three of the following \hfill 10x3=30}
+
+\begin{enumerate}
+    \item[(a)] Write an essay on the advantages and disadvantages of using LaTeX for scientific writing.
+    
+    \item[(b)] Explain the different types of LaTeX environments with examples. Include the \texttt{itemize}, \texttt{enumerate}, and \texttt{tabular} environments.
+    
+    \item[(c)] Describe the use of bibliographies in LaTeX. Explain how the \texttt{bibtex} tool is used for reference management.
+    
+    \item[(d)] Create a sample LaTeX code to demonstrate the use of custom theorem styles. Include examples of theorem, lemma, and proof environments.
+    
+    \item[(e)] Discuss the process of creating and customizing headers and footers in LaTeX documents using the \texttt{fancyhdr} package.
+\end{enumerate}
+
+\end{document}
+
