@@ -1,0 +1,103 @@
+\documentclass[12pt, a4paper]{article}
+\usepackage{amsmath}
+\usepackage{graphicx} 
+\usepackage{cite}     
+\usepackage{geometry}
+\geometry{margin=1in}
+\title{\textbf{The Impact of Social Media on Society}
+\textit{International Open-Access, Double-Blind, Peer-Reviewed, Refereed, Multidisciplinary Online Journal}}
+
+\author{Atul Arun Patil \\
+Institute of Distance and Open Learning, Mumbai, Maharashtra, India \\}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+\textit{Cybersecurity is important to the computerised news industry. One of the defects in competition
+issues in the new planet is news security. Cybercrimes, what act the rise everyday, are mainly that springs
+to mind at any time we deem computerised guardianship. If skill is no safety to secure it, plans, awake files,
+file, and different main essential items are imperilled. Every business, either an IT firm or a hint of
+adjustment, needs to be protected equally. The attackers do not trail as a result of the advancement of new
+complicated security orders. They are utilising more brand-new and upgraded taxicab strategies to aim the
+feeble points of miscellaneous firms generally. Because of the tremendous amounts of files that the military,
+management, commercial, restorative, and friendly areas accumulate, use, and store on PCs and additional
+tools, computerised safety is important. Sensitive information, holding commercial dossiers, shielded
+features forged by original understanding, individual information, and various types of file that
+unauthorised approach or familiarity protect have undesirable belongings, can hold a considerable portion
+of earlier dossiers.}
+\end{abstract}
+
+\vspace{1cm}
+
+\noindent \textbf{Keywords:} computerised security, high-tech dangers, high-tech attacks, cybercrime, cyber defence
+
+\section{Introduction}
+Cybersecurity is essential in contemporary's networked planet to protect our mathematical methods, networks, and
+dossiers from unauthorised approach, criminal activity, and potential instabilities. The demand for efficient
+cybersecurity measures has never been greater due to the technology's exponential growth and growing reliance on
+digital infrastructure. Even contemporary
+technologies such as cloud estimating, mobile estimating, net investment, and e-commerce, demand an extreme level
+of security. Since these electronics involve some important facts about a person, their freedom has curved into a top
+priority. Each country's safety and financial well-being believe in embellishing cyber safety and looking after vital facts
+foundation. For a society to efficiently put an end to or recover from cyberattacks, all of the arrangements, society, and
+tools must agree. The tasks of finding, inspection, and remediation are three important freedom processes that can be
+increased by a united threat administration whole. The review of the main ideas and significance of cybersecurity in this
+introduction.
+\section{Definition}
+Cybersecurity is outlined as the practice of forestalling unauthorised approach, misuse, and harm to manipulative
+structures, networks, dossiers, and certainties. It includes a broad range of plans, forms, and processes booked to protect
+the solitude, chance, and fullness of mathematical characteristics. Cybersecurity demands preventing, recognizing, and
+fighting many connected to the internet dangers particular taxicab attempts, malware contaminations, dossier breaches,
+and additional cybercrimes.
+\.
+
+\section{Importance of Cybersecurity}
+Cybersecurity is the process of hampering unauthorised approach, misuse, and damage to computer arrangements,
+networks, dossier, and information. It involves a broad range of plans, forms, and procedures engaged to defend the
+confidentiality, approachability, and dependability of mathematical assets. Cybersecurity requires preventing, spotting,
+and fighting many connected to the internet dangers aforementioned hack attempts, malware contaminations, data
+breaches, and different cybercrimes.
+
+\section{Findings}
+\subsection{Impact on Mental Health}
+Research shows mixed results regarding social media's impact on mental health. While some studies point to social media as a tool for connecting with others and finding support networks, others indicate an increase in mental health issues like depression and anxiety, particularly among younger users .
+
+\subsection{Effect on Relationships}
+Social media has transformed relationships, enabling users to maintain long-distance friendships and connect with like-minded individuals. However, it has also led to challenges, such as reduced face-to-face interactions and issues related to privacy and trust within relationships.
+
+\subsection{Evolving Cyber Threat}
+The cybersecurity threat landscape is always changing and getting more complex. To conduct cyberattacks,
+cybercriminals and other bad actors constantly create new methods and take advantage of weaknesses in software,
+networks, and user behaviour. Financial loss, reputational harm, operational interruptions, privacy violations, and even
+hazards to national security could be caused by these attacks. The attack surface has been further increased by the
+introduction of technologies like artificial intelligence, the Internet of Things, and cloud computing, posing new
+cybersecurity issues.
+
+\section{Purpose}
+Protecting calculating arrangements, networks, and data from unauthorised approach, use, announcement, break, or
+destruction is the aim of cybersecurity. It requires dawdling in place a type of safeguards and processes to keep digital
+property, structures, and data processing infrastructure against potential dangers like hackers, malware, viruses, dossier
+breaches, and added cyber attacks.Cyber Security everything to assure delicate dossier from unauthorised access and
+damage to calculating arrangements and networks by guaranteeing the confidentiality, purity, and chance of dossier and
+information. To recognise, stop, detect, respond to, and recover from cyber threats, a variety of techniques,
+technologies, and procedures are used.Security, privacy, and trustworthiness of digital systems, networks, and data are
+the main goals of cybersecurity. Effective cybersecurity solutions can help people, businesses, and governments lower
+the risks posed by cyber threats, safeguard confidential data, and ensure the availability and integrity of their digital
+assets.
+
+\section{REFERENCES}
+\begin{itemize}
+    \item  10 Biggest Cybersecurity Challenges Industry is Facing in 2023 (thesagenext.com)\\
+    \item  IEEE Security and Privacy Magazine–IEEE CS “SafetyCritical Systems –Next Generation “July/ Aug 2013.\\
+    \item  Computer Security Practices in Non Profit Organisations–A NetAction Report by Audrey Krause.\\
+    \item Albalawi, A.M.; Almaiah, M.A. Assessing and reviewing cyber-security threats, attacks, mitigation techniquesin the iot environment. J. Theor. Appl. Inf. Technol. 2022, 100, 2988–3011. [Google Scholar]\\
+    \item Razzaq, A.; et al.: Cyber security: threats, reasons, challenges, methodologies and state of the art solutions forindustrial applications. In: 2013 IEEE Eleventh International Symposium on Autonomous Decentralised
+    Systems (ISADS). IEEE (2013)\\
+    \item Taha, A.F.; et al.: Risk mitigation for dynamic state estimation against cyber attacks and unknown inputs.IEEE Trans. Smart Grid 9(2), 886–899 (2018)
+
+\end{itemize}
+\end{document}
